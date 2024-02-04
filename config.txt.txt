@@ -1,0 +1,2 @@
+SEED=olive ladder gorilla badge bicycle deputy cherry believe length ceiling universe cluster express outdoor then major theme favorite roast vivid text someone sheriff oven
+TONAPI_TOKEN=AHAC72UDKQSBZRIAAAAKXL34IDNHR6KOVP3PI5F43WSJCI4CZH6OG5AZZK3DMK6XSXVJG6Q
